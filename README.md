@@ -1,2 +1,5 @@
 # ENet-A-Deep-Neural-Network-Architecture-for-Real-Time-Semantic-Segmentation
-Tensorflow2.0 implementation of https://arxiv.org/pdf/1606.02147.pdf
+
+<h3> Architecture <h3/>
+  
+![alt text](https://github.com/c1ph3rr/ENet-A-Deep-Neural-Network-Architecture-for-Real-Time-Semantic-Segmentation/blob/master/architecture.png)
